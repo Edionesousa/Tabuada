@@ -1,0 +1,36 @@
+
+
+*{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+body{
+    text-align: center;
+    width: 300px;
+    font-size: 25pt;
+    background-color: aquamarine;
+    
+}
+section{
+    text-align: center;
+    width: 500px;
+    margin: 1px;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    
+      
+}
+#txtn{
+    width: 50px;
+    text-align: center;
+    size: 50%;
+}
+footer{
+    text-align: center;
+    margin-left: auto;
+    font-style: italic;
+    font-size: 20px;
+}
