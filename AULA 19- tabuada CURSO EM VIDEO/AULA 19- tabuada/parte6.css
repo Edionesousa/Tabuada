@@ -1,6 +1,7 @@
 
 
 *{
+    background-image:url(./imfundo.jpg);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -14,6 +15,8 @@ body{
     
 }
 section{
+    cursor: pointer;
+    transition: 2s ;
     text-align: center;
     width: 500px;
     margin: 1px;
